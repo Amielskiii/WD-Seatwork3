@@ -9,18 +9,18 @@
     <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Seatwork 3</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Gave me a hard time. (Optional)
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Amielskiii/WD-Seatwork3)
 
 ---
 
@@ -61,16 +61,21 @@ Description of the project in details.
 
 Guiding Question:
 - What is the project
+: The project is to make 5 different Static Headers and 5 different Animated Headers, 5 different Static Footers and 5 different Animated Footers.
 - Whats the purpose
+: The purpose of the project is to test our skills and knowledge using HTML and CSS to make different designs for headers and footers.
 - What are key components
+: The key components are 
 - What technology used and how it is used
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Webpage landing site
+- Static Headers
+- Animated Headers
+- Static Footers
+- Animated Footers
 
 ### Technology
 <!-- TODO: List of Technology Used -->

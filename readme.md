@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Gave me a hard time. (Optional)
+  Gave me a hard time. 
 </div>
 
 <br />

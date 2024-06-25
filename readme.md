@@ -59,14 +59,8 @@
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-: The project is to make 5 different Static Headers and 5 different Animated Headers, 5 different Static Footers and 5 different Animated Footers.
-- Whats the purpose
-: The purpose of the project is to test our skills and knowledge using HTML and CSS to make different designs for headers and footers.
-- What are key components
-: The key components are 
-- What technology used and how it is used
+ The project is to make 5 different Static Headers and 5 different Animated Headers, 5 different Static Footers and 5 different Animated Footers. The Goal of the project is to test our skills and knowledge using HTML and CSS to make different designs for headers and footers.
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -81,7 +75,6 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -122,4 +115,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Google Fonts | For changing the fonts of the texts | https://fonts.google.com/ |
+| AZUCENA | Animated GIF logo | https://cooltext.com/ |
+| Google | Ideas | https://google.com |
+| Blogspot | HTML AND CSS GUIDES | https://blog.hubspot.com/website/blog/tabid/6307/bid/19727/easy-html-tricks-for-the-non-technical-marketer.aspx#:~:text=To%20make%20a%20horizontal%20line%20in%20HTML%2C%20use%20the%20%3Chr,not%20have%20a%20closing%20tag.|

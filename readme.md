@@ -119,3 +119,6 @@ WD-ProjectName
 | AZUCENA | Animated GIF logo | https://cooltext.com/ |
 | Google | Ideas | https://google.com |
 | Blogspot | HTML AND CSS GUIDES | https://blog.hubspot.com/website/blog/tabid/6307/bid/19727/easy-html-tricks-for-the-non-technical-marketer.aspx#:~:text=To%20make%20a%20horizontal%20line%20in%20HTML%2C%20use%20the%20%3Chr,not%20have%20a%20closing%20tag.|
+
+## Deployment Link
+

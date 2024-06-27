@@ -1,0 +1,283 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header .header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.go-back-container {
+    text-align: center; 
+    margin-top: 20px; 
+}
+
+.go-back {
+    display: inline-block; 
+    padding: 10px 20px; 
+    border: 1px solid #000; 
+    border-radius: 5px; 
+    background-color: #ccc; 
+}
+
+.go-back a {
+    text-decoration: none; 
+    color: #000; 
+}
+
+.go-back:hover {
+    background-color: #000; 
+}
+
+.go-back:hover a {
+    color: #fff; 
+}
+
+.footer-1 {
+    font-family: 'Permanent Marker', sans-serif;
+    background: url('https://www.pixelstalk.net/wp-content/uploads/2016/08/Nature-wallpapers-Full-HD-backgroud.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.footer-1 .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-1 .logo img {
+    height: 50px;
+}
+
+.footer-1 .social-links img {
+    height: 20px;
+    margin: 0 10px;
+}
+
+.footer-1 .info {
+    text-align: left;
+}
+
+.footer-2 {
+    font-family:'Dancing Script', sans-serif ;
+    background: url('https://wallpaperaccess.com/full/503258.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 20px;
+    color: rgb(11, 0, 108);
+    text-align: center;
+}
+
+.footer-2 .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-direction: column; 
+    margin-top: 20px;
+    text-align: left;
+}
+
+.footer-2 .logo img {
+    height: 50px;
+}
+
+.BENGBONG {
+    padding: 10px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgb(255, 255, 255); 
+    border-radius: 5px;
+    margin-bottom: 10px;
+
+}
+
+.footer-2 .social-links img {
+    height: 20px;
+    margin: 0 10px;
+}
+
+.footer-2 .info {
+    text-align: left;
+}
+
+.text-container2 {
+    padding: 10px;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.679); 
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.footer-3 {
+    font-family: 'Pixelify Sans', 'Sans-Serif';
+    background: url('https://www.agencytourismmarketing.com/wp-content/uploads/super-mario-footer-background.gif') no-repeat center center;
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-3 .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-3 .logo img {
+    height: 50px;
+}
+
+.footer-3 .social-links img {
+    height: 20px;
+    margin: 0 10px;
+}
+
+.footer-3 .info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer-3 .links a {
+    text-decoration: none; 
+    color: black;
+} 
+
+.footer-3 .links {
+    display: flex;
+    gap: 20px;
+}
+
+.footer-3 .link-container {
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.footer-4 {
+    font-family: 'The Girl Next Door', sans-serif ;
+    background: url('https://wallpapercave.com/wp/wp11325423.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 40px 20px; 
+    text-align: center;
+    color: #fff; 
+}
+
+.footer-4 .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer-4 .logo img {
+    height: 50px;
+}
+
+.footer-4 .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px; 
+}
+
+.footer-4 .social-links img {
+    height: 30px; 
+    margin: 0 10px;
+}
+
+.footer-4 .info {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    gap: 10px;
+}
+
+.text-container1 p,
+.text-container3 p {
+    margin: 0;
+    font-size: 0.9em; 
+}
+
+.text-container1 {
+    color: rgb(255, 255, 255);
+    padding: 10px; 
+    background:url('https://i.pinimg.com/originals/b4/17/81/b417813add8bf315b0c25e74055e46d7.jpg') no-repeat center center; 
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 0.9em; 
+}
+
+.text-container3 {
+    padding: 10px; 
+    background-color: rgba(171, 94, 5, 0.564);
+    background-size: cover;
+    background-position: center;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 0.9em; 
+}
+
+.shebelerdi {
+    color: rgb(255, 255, 255);
+    padding: 10px; 
+    position: baseline;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 0.9em; 
+}
+
+.footer-5 {
+    background: url('https://i.pinimg.com/736x/8e/47/b4/8e47b4a84f8880ceb5779cd87d3d8073.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-5 .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-5 .logo img {
+    height: 250px;
+}
+
+.BINGOT {
+    font-family: 'Iceland', sans-serif;
+    font-size: 1.00em;
+    color:#333
+}
+
+.footer-5 .social-links img {
+    height: 20px;
+    margin: 0 10px;
+}
+
+.footer-5 .credits {
+    font-family: 'Iceland', sans-serif;
+    text-align: center;
+    color: #333;
+}
+
+.box {
+    padding: 10px;
+    background-color: rgba(38, 156, 240, 0.8); 
+}
